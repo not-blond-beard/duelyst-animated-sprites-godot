@@ -89,7 +89,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_wx2l6")
 }],
-"loop": true,
+"loop": false,
 "name": &"bladestorm",
 "speed": 9.0
 }]
