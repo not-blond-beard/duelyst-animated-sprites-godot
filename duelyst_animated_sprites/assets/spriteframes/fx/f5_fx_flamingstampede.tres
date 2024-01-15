@@ -1,4 +1,4 @@
-[gd_resource type="SpriteFrames" load_steps=33 format=3 uid="uid://bv0kvwqi220jn"]
+[gd_resource type="SpriteFrames" load_steps=33 format=3 uid="uid://baefiaudsfoidusiof"]
 
 [ext_resource type="Texture2D" uid="uid://col654x6gkqb0" path="res://addons/duelyst_animated_sprites/assets/spritesheets/fx/f5_fx_flamingstampede.png" id="1_oei7t"]
 
@@ -222,7 +222,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_bey6b")
 }],
-"loop": true,
+"loop": false,
 "name": &"flamingstampede",
 "speed": 9.0
 }]
